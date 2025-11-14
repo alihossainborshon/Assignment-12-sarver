@@ -6,11 +6,11 @@
   Password: `123456`
 
 - **User:**  
-  Email: `beckham@gmail.com`  
+  Email: `kaka@gmail.com`  
   Password: `123456`
 
 - **Tourist:**  
-  Email: `borshon@gmail.com`  
+  Email: `naimar@gmail.com`  
   Password: `123456`
 
 - **Guide:**  
@@ -47,4 +47,3 @@
 > - `user` → `tourist` after successful tour booking & payment.  
 > - `user` → `guide` after admin approval via Manage Candidate.  
 > - Admin & Guide have restricted access for package booking.
-
